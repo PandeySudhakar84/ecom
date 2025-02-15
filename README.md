@@ -36,7 +36,7 @@ _fill each filed with your info respectively_
 
 ## Author
 
-**Instagram** Click [Here](https://www.instagram.com/savage_prince_04/?igshid=ZmZhODViOGI%3D) **@meSudhakar**
-**YouTube** Click [Here](https://www.youtube.com/watch?v=68PeJytepWk) **show cse**
+**Instagram** Click [Here](https://www.instagram.com/savage_prince_04/?igshid) **@meSudhakar**
+**YouTube** Click ) **show cse**
 **LinkedIn** Click [Here]() **@mesudhakar**
 **Twitter** Click [Here]() **@sudhakar_kumar**
