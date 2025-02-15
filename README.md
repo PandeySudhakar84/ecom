@@ -5,7 +5,7 @@ Hi! My name is **Sudhakar Kumar**, this is my final year project.
 # Prerequisite
 
 1.  Must have basic knowledge of **Node**, **React**, **Express**, **MongoDB** . _I have made tutorial on each technology on YouTube , make sure to check it out_. **Links are Below respectively**
-https://www.youtube.com/watch?v=68PeJytepWk
+
 # Install Dependencies
 
 **For Backend** - `npm i`
